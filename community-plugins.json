@@ -18429,5 +18429,12 @@
     "author": "Jared Kelnhofer",
     "description": "Move cursor right then left briefly on startup --> first opened note. Makes DataView expressions 'activate' automatically instead of waiting for user interaction.",
     "repo": "Treadder/move-cursor-on-startup"
+  },
+  {
+  "id": "obsidian-progressive",
+  "name": "Progressive",
+  "author": "Kelen.Argos",
+  "description": "Displays a sidebar progress bar tracking completed tasks across daily, weekly, monthly, or custom notes, with customizable folder and behaviour.",
+  "repo": "kelen-argosi/obsidian-progressive"
   }
 ]
